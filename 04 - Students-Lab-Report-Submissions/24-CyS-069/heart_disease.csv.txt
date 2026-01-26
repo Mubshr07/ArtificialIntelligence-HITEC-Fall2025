@@ -1,0 +1,16 @@
+Age,Gender,BMI,Cholesterol Level,Blood Pressure,Heart Disease Status,Exercise Habits,Smoking Status,Triglyceride Level,Sleep Hours
+45,Male,28,210,135,No,Regular,No,150,7
+54,Female,32,240,150,Yes,None,Yes,190,6
+60,Male,31,260,160,Yes,Low,Yes,210,5
+39,Female,24,180,120,No,Regular,No,130,8
+50,Male,29,220,140,No,Low,No,170,7
+65,Female,34,280,170,Yes,None,Yes,230,4
+48,Male,27,200,130,No,Regular,No,145,7
+57,Female,33,250,155,Yes,Low,Yes,205,6
+42,Male,26,195,125,No,Regular,No,140,8
+70,Female,36,300,180,Yes,None,Yes,250,4
+55,Male,30,235,145,Yes,Low,No,185,6
+47,Female,25,190,128,No,Regular,No,135,7
+62,Male,35,290,175,Yes,None,Yes,240,5
+41,Female,23,175,118,No,Regular,No,125,8
+58,Male,32,255,160,Yes,Low,Yes,215,6
